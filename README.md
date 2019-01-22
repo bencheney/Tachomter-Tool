@@ -1,7 +1,7 @@
 # Tachometer Tool Version 1.03 for Raspberry Pi by Ben Cheney
 This program is a tool to verify the accuracy of an automotive tachometer using the Raspberry Pi GPIO and a simple circuit.  The input parameters are tailored to conventional cylinder options and RPM operating range, however the formula would support any combination.
 
-Regarding the formula, it is based on the principal of a four stroke engine having one ignition pulse per cylinder for every two revolutions of the crankshaft.  For example; a one cylinder engine at 1,000 revolutions per minute produces 500 ignition pulse signals.
+The formula is based on the principal of a four stroke engine having one ignition pulse per cylinder for every two revolutions of the crankshaft.  For example; a one cylinder engine at 1,000 revolutions per minute produces 500 ignition pulse signals.
 
 - Pulse Per Minute = (Revolutions Per Minute * (Cylinders / 2))
 
