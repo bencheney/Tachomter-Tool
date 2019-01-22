@@ -10,8 +10,6 @@ Regarding the formula, it is based on the principal of a four stroke engine havi
 - Thus the signal to the tachometer in the form of pulse frequency within one second equals:
 (1 / ((RPM * (Cylinders / 2)) / 60)
 
-*** Breaking professionalism for a moment: The moment this worked was a big deal for me as I didn’t obtain this formula from a Google search, I penciled it out while thinking aloud feeding my daughter in her high chair. ***
-
 As the formula exists in the code it is divided by two to compensate for the period of time being doubled in the loop to execute the ON and OFF condition.
 
 There is consideration for a hardware based input version that would use a knob for cylinder selection and RPM selection.  More to come, if you’ve read this far I thank you.
