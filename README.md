@@ -12,4 +12,4 @@ The formula is based on the principal of a four stroke engine having one ignitio
 
 As the formula exists in the code it is divided by two to compensate for the period of time being doubled in the loop to execute the ON and OFF condition.
 
-There is consideration for a hardware based input version that would use a knob for cylinder selection and RPM selection.  More to come, if you’ve read this far I thank you.
+The next version may have two RPM entries to display the tachometer's sweep between the two values.  There is consideration for a hardware based input version that would use a knob for cylinder selection and RPM selection.  More to come, if you’ve read this far I thank you.
